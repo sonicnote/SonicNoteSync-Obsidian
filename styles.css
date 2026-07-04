@@ -1,0 +1,10 @@
+/* SonicNote Sync Plugin Styles */
+
+/* Login modal */
+.sonicnote-login-modal .setting-item {
+  padding: 8px 0;
+}
+
+.sonicnote-login-modal .setting-item-control input {
+  width: 200px;
+}
