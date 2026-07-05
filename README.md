@@ -96,6 +96,11 @@ npm run build        # 生产构建（类型检查 + 压缩）
 - Obsidian Plugin API
 - 妙记 REST API（Bearer Token 认证）
 
+## 文档
+
+- [官方使用文档](https://ainote.easylinkin.com/#/resources/docs)
+- [插件下载页面](https://linkaip.easylinkin.com/public/sonicnotesync-obsidian-install.html)
+
 ## 许可
 
 MIT
