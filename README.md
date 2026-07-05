@@ -5,6 +5,8 @@
 
 将 SonicNote（妙记）云端的录音数据同步到 Obsidian，每条录音生成一个包含元数据、笔记、AI 总结和转录文本的 Markdown 文件。
 
+▶️ [视频教程：AI 录音卡 x Obsidian 完整使用教程](https://www.bilibili.com/video/BV1gE7A6zERK/?vd_source=e28745caa23df4182841fe10c0c0f4aff)
+
 ## 功能
 
 - **一键同步** — 点击 Ribbon 图标或执行命令，自动拉取所有录音
